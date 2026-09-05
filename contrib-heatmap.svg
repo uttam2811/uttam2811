@@ -390,7 +390,7 @@
 <rect class="cell c366" x="814" y="68" width="11" height="11" rx="2" fill="#4d3d14" stroke="#2a2414" stroke-width="0.5" opacity="0" style="animation-delay:0.990s"/>
 <rect class="cell c367" x="814" y="83" width="11" height="11" rx="2" fill="#4d3d14" stroke="#2a2414" stroke-width="0.5" opacity="0" style="animation-delay:1.008s"/>
 <rect class="cell c368" x="814" y="98" width="11" height="11" rx="2" fill="#4d3d14" stroke="#2a2414" stroke-width="0.5" opacity="0" style="animation-delay:1.027s"/>
-<rect class="cell c369" x="814" y="113" width="11" height="11" rx="2" fill="#171308" stroke="#2a2414" stroke-width="0.5" opacity="0" style="animation-delay:1.045s"/>
+<rect class="cell c369" x="814" y="113" width="11" height="11" rx="2" fill="#4d3d14" stroke="#2a2414" stroke-width="0.5" opacity="0" style="animation-delay:1.045s"/>
 <rect class="cell c370" x="814" y="128" width="11" height="11" rx="2" fill="#171308" stroke="#2a2414" stroke-width="0.5" opacity="0" style="animation-delay:1.063s"/>
 <text x="34" y="168" fill="#8a7a4a" font-size="9">Less</text>
 <rect x="68" y="161" width="11" height="11" rx="2" fill="#171308"/>
@@ -399,6 +399,6 @@
 <rect x="110" y="161" width="11" height="11" rx="2" fill="#c9962e"/>
 <rect x="124" y="161" width="11" height="11" rx="2" fill="#f4c542"/>
 <text x="144" y="168" fill="#8a7a4a" font-size="9">More</text>
-<text x="825" y="168" fill="#e8c96b" font-size="9" text-anchor="end">65 contributions // longest streak 48d</text>
+<text x="825" y="168" fill="#e8c96b" font-size="9" text-anchor="end">66 contributions // longest streak 49d</text>
 <style>.cell{animation:reveal 0.5s ease-out forwards;}@keyframes reveal{0%{opacity:0;transform:translate(-6px,-10px);}100%{opacity:1;transform:translate(0,0);}}</style>
 </svg>
